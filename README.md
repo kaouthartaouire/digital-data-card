@@ -26,14 +26,14 @@ This project presents a modern and immersive digital identity card inspired by f
 
 ## 👩‍💻 Author
 
-Kaouthar Taouire
+Kaouthar Taouire 
 Data & AI Engineer
 
 ---
 
 ## 📸 Preview
 
-![Preview](preview.png)
+![Preview](digital-data-card/preview.png)
 
 ---
 
